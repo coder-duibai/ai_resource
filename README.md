@@ -24,9 +24,8 @@
 
 
 
-![aHb1LO](https://raw.githubusercontent.com/howie6879/oss/master/images/aHb1LO.png)
 
-机器学习网站导航以及资源，欢迎**PR提供资源**：
+# 机器学习网站导航以及资源
 
 ## 导航
 

@@ -2,7 +2,7 @@
 
 <!-- code_chunk_output -->
 
-- [mlhub123](#mlhub123)
+
   - [导航](#导航)
     - [新闻资讯](#新闻资讯)
     - [社区交流](#社区交流)
@@ -22,14 +22,11 @@
 
 <!-- /code_chunk_output -->
 
-# mlhub123
+
 
 ![aHb1LO](https://raw.githubusercontent.com/howie6879/oss/master/images/aHb1LO.png)
 
 机器学习网站导航以及资源，欢迎**PR提供资源**：
- - 网站：[https://www.mlhub123.com/](https://www.mlhub123.com/)
- - 进微信群交流：备注mlhub进群 - [mlhub](https://ws1.sinaimg.cn/large/007i3XCUgy1fwgr8qhjz7j306506faag.jpg)
- - Telegram群组：[欢迎加入](https://t.me/joinchat/F6XKShFSdCUHuo5Rvoj4Jg)，资源多多~
 
 ## 导航
 
